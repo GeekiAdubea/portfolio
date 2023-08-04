@@ -9,6 +9,8 @@
 Data used is **scraped** from used car portals in Ghana, which is stored in **MongoDB Cloud**. The data is then explored and analyzed using Python in a Jupyter Notebook. A dashboard is built and deployed using **Streamlit**. The key objective here is double-sided. First, persons who are looking to purchase used cars have this platform to explore features of a used car and how it affects it price. Secondly, used car dealers can use this platform as a guide to inform pricing, etc.
 Price prediction feature ongoing*
 
+![My Image](images/used_cars.png)
+
 ### HR Employee Data Analysis
 [GitHub](https://github.com/GeekiAdubea/HR-Dashboard-MySQL-PowerBI)
 
