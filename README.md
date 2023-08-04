@@ -20,16 +20,16 @@ This project highlights skills in SQL and PowerBI. Data used is a csv file which
 
 ## Work Experience
 **Data Analytics Scientist @ Superfluid Labs (_May 2021 - Present_)**
-● To track performance of agents, I worked with a product team to build a monitoring framework using Python and Google
+- To track performance of agents, I worked with a product team to build a monitoring framework using Python and Google
 Sheets. Performance of agents increased by 12%
-● Built a customer segmentation model in Python to aid targeted customer marketing and support.
-● Led an A/B testing project to research various contribution behaviours for a pensions company. This resulted in improved
+- Built a customer segmentation model in Python to aid targeted customer marketing and support.
+- Led an A/B testing project to research various contribution behaviours for a pensions company. This resulted in improved
 processes to encourage contributions.
-● Moderated a series of webinars on the benefits and applications of data analytics for business growth.
+- Moderated a series of webinars on the benefits and applications of data analytics for business growth.
 
 **Data Science Intern @ Maxim Nyansa IT Solutions (_January – June 2020_)**
-● Collaborated with stakeholders to identify analytical requirements.
-● Identified and tracked metrics to measure impact of a social intervention project using Google
+- Collaborated with stakeholders to identify analytical requirements.
+- Identified and tracked metrics to measure impact of a social intervention project using Google
 Sheets.
-● Created data visualisations, translating data sets into understandable visual representations.
+- Created data visualisations, translating data sets into understandable visual representations.
 
