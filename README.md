@@ -18,7 +18,7 @@ This project highlights skills in SQL and PowerBI. Data used is a csv file which
 
 ![My Image](images/image1.png)
 
-### Work Experience
+## Work Experience
 **Data Analytics Scientist @ Superfluid Labs (_May 2021 - Present_)**
 ● To track performance of agents, I worked with a product team to build a monitoring framework using Python and Google
 Sheets. Performance of agents increased by 12%
